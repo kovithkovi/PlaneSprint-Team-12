@@ -1,0 +1,50 @@
+.background {
+    background: rgba(0, 0, 0, 0.7) url('/static/wallpaper1.jpg');
+    /* background-size: cover; */
+    background-blend-mode: darken;
+}
+
+.fsec {
+    height: 80vh;
+}
+
+.text-color {
+    color: #d0b200;
+}
+
+.text {
+    color: white;
+}
+
+.bigtext {
+    font-size: 3rem;
+    position: relative;
+    top: 200px;
+    left: 607px;
+}
+
+.smalltext {
+    position: relative;
+    top: 177px;
+    left: 650px;
+}
+
+.b img {
+    border-radius: 100%;
+}
+
+.bl img {
+    border-radius: 14px;
+}
+
+.mar {
+    margin-top: 300px;
+}
+
+.mart {
+    margin-top: 100px;
+}
+
+a {
+    text-decoration: none;
+}
